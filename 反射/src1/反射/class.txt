@@ -1,0 +1,2 @@
+classname=∑¥…‰.Person
+method=staticMethod
